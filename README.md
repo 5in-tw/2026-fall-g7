@@ -2,7 +2,7 @@
 
 This project is being created by 5in’s 7th Grade Coding Class during the fall of 2026.
 
-The website for this project is available at [https://5in-tw.github.io/2026-fall-7th/](https://5in-tw.github.io/2026-fall-7th/)
+The website for this project is available at [https://5in-tw.github.io/2026-fall-g7/](https://5in-tw.github.io/2026-fall-g7/)
 
 ## Software needed for this project
 
