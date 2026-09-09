@@ -37,7 +37,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload sub-directory
-          path: './2026-fall-7th'
+          path: './2026-fall-g7'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
